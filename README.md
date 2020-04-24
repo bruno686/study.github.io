@@ -1,14 +1,23 @@
 # Welcome to My Github
 
+> 学如春园之草，
+> 不见其长，日有所曾。
+> 持之以恒，日日行动。
+> 日积月累，已在先锋。
 
-#
+
+
+## Self-introduction
+
+You can call me Bruno. I was an plain sophomore. Because I am poor at taking notes, and even if I took notes, I could not read what I wrote. So I set up this blog to connect to the github repository to store my notes. Welcome to study and communicate with me and make progress together. If you like my notes, please click star on github. Thank you!
 
 
 
-### Jekyll Themes
+## Classification
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bruno686/bruno686.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[English](https://bruno686.github.io/english/):Record the good words and sentences accumulated in daily life
 
-### Support or Contact
+[machine learing](https://bruno686.github.io/ML-notes/):Record some machine learning notes, as well as model implementations
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[semester3](https://bruno686.github.io/semester3-notes/):Here are my notes for the second semester of my sophomore year. It includes lecture notes, homework solutions, and exams
+
